@@ -28,7 +28,7 @@ menu:
 # facebook_username: facebook_username
 # twitter_username: twitter_username
 instagram_username: instagram_username
-telegram_username: @piratedcitypc
+telegram_username: piratedcitypc
 # linkedin_username: linkedin_username
 # medium_username: medium_username
 
@@ -42,7 +42,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://PiraTedCity.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
